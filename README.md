@@ -3,7 +3,7 @@ This database was created by Qi Liu (sdqi.liu@gmail.com) and Honglei Su (suhongl
 
 Qi Liu, Hui Yuan, Raouf Hamzaoui, Honglei Su and Junhui Hou. Reduced Reference Perceptual Quality Model with Application to Rate Control for Video-based Point Cloud Compression, IEEE Transactions on Image Processing.
 
-The original point clouds are from the WPC database. The subjective test settings and raw data processing are the same as those in the WPC database.
+The WPC2.0 database is composed of distorted point clouds and their bitstreams whose original point clouds are from the WPC database. The subjective test settings and raw data processing are the same as those in the WPC database.
 
 -----------COPYRIGHT NOTICE STARTS WITH THIS LINE------------ Copyright (c) 2021 The Qingdao University All rights reserved.
 
