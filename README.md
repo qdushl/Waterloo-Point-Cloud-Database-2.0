@@ -1,5 +1,5 @@
 # The WPC2.0 Database
-This database was created by Qi Liu (sdqi.liu@gmail.com) and Honglei Su (suhonglei@qdu.edu.cn) from Qingdao University in 2019. We welcome everyone to carry on the test and propose the modification opinion. If you use our database https://drive.google.com/drive/folders/1g54N3r6fb5JFrR03LHKQzCg1RBQqWijm (a Google account required) in your paper, please cite our papers: 
+This database was created by Qi Liu (sdqi.liu@gmail.com) and Honglei Su (suhonglei@qdu.edu.cn) from Qingdao University in 2019. We welcome everyone to carry on the test and propose the modification opinion. If you use our database https://drive.google.com/drive/folders/1g54N3r6fb5JFrR03LHKQzCg1RBQqWijm (a Google account required) in your paper, please cite our paper: 
 
 Qi Liu, Hui Yuan, Raouf Hamzaoui, Honglei Su and Junhui Hou. Reduced Reference Perceptual Quality Model with Application to Rate Control for Video-based Point Cloud Compression, IEEE Transactions on Image Processing.
 
