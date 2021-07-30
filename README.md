@@ -3,7 +3,7 @@ This database was created by Qi Liu (sdqi.liu@gmail.com) and Honglei Su (suhongl
 
 [1] Qi Liu, Hui Yuan, Raouf Hamzaoui, Honglei Su and Junhui Hou. Reduced Reference Perceptual Quality Model with Application to Rate Control for Video-based Point Cloud Compression, IEEE Transactions on Image Processing.
 
-BibTex
+BibTex:
 
 @article{liu2021reduced,
 
